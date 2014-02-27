@@ -42,3 +42,6 @@ Please disable all plugins and check if shortcode plugin is working properly. Th
 
 = 1.0 =
 * Official plugin release.
+
+= 1.0.1 =
+Fixed small issue in button shortcode CSS.
