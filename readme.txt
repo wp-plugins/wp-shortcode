@@ -12,7 +12,16 @@ WP Shortcode is a premium WP plugin for free, that provides easy to use over 24 
 
 == Description ==
 
-WP Shortcode is a premium WordPress plugin for free, that provides easy to use over 24 shortocdes. You can easily add buttons, alerts, videos, Google maps, tabs and much more.
+Add sexy-buttons, spoiler warnings, column layouts and much more to WordPress. WP Shortcode makes it happen with a click of a button. Until now, this premium plugin was available to premium members of <a href="http://mythemeshop.com/">MyThemeShop</a>, but now everyone can use this premium plugin.
+
+Why use WP Shortcode plugin? Tired of using a theme with built-in shortcodes, switching themes and then losing all your awesome styles? WP Shortcode offers over 24 useful shortcodes, so you'll never lose anything when changing your theme. Now you can add buttons, highlights, boxes, toggles, tabs, pricing tables, among other awesomeness, and take them with you no matter what theme you decide to use.
+
+We at MyThemeShop realize there are already some free shortcode plugins out, but they either only include a very few amount of shortcodes, they are way too complex, not well-coded, not styled to our liking or they weren’t free. We wanted to create something that was 100% GPL so you can use it and abuse it on all of your websites and client projects – and of course that’s very easy to use and minimally styled, so it can fit most sites right out of the box or be easily customized.
+
+To see a full list of options available with this powerful plugin, try this page: <a href="http://demo.mythemeshop.com/spike/shortcodes-examples/">http://demo.mythemeshop.com/spike/shortcodes-examples/</a>
+
+= Shortcodes Included =
+Buttons, Videos, Alerts, Google Maps, Toggle, Tabs, dividers, Columns And much more! Easily add nice looking elements to your WordPress website without any knowledge of coding!
 
 == Installation ==
 
